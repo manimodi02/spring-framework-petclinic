@@ -21,8 +21,8 @@
         <table class="table table-striped">
             <thead>
             <tr>
-                <th>Name</th>
-                <th>Birth Date</th>
+                <th>Pet Name</th>
+                <th>Date of Birth</th>
                 <th>Type</th>
                 <th>Owner</th>
             </tr>
